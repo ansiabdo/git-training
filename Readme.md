@@ -4,7 +4,7 @@ git init ---important part2
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/ansiabdo/git-training.git
+git remote add origin https://github.com/ansiabdo/git-training.git 
 git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/ansiabdo/git-training.git
