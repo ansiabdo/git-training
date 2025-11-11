@@ -1,6 +1,6 @@
 …or create a new repository on the command line
 echo "# git-training" >> README.md
-git init alwareeth part2
+git init ---alwareethimportant part2
 git add README.md
 git commit -m "first commit"
 git branch -M master
