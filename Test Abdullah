@@ -1,2 +1,12 @@
 select * from tabl1
 where id =1
+
+select 1 a from dual union all
+select 2 a from dual union all
+select 3 a from dual union all
+select 4 a from dual union all
+select 1 a from dual union all
+select 2 a from dual union all
+select 3 a from dual union all
+select 4 a from dual union all
+select 5 a from dual
