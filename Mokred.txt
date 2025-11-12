@@ -1,4 +1,4 @@
 New File Added
 git config --global user.name "Your Name"
-
+c
 git config --global user.email "your.email@example.com"
