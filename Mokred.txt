@@ -1,4 +1,4 @@
 New File Added
-git config --global user.name "mhashomi-debug"
+git config --global user.name "name"
 c
-git config --global user.email "mhashomi@gmail.com"
+git config --global user.email "email"
