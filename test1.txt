@@ -1,1 +1,4 @@
 Ahmed Al-Wareeth
+
+git config --global user.name "belalalabbasi313-creator"
+git config --global user.email "belalalabbasi313@gmail.com"
